@@ -1,11 +1,5 @@
 numpy
-scikit-learn
-opencv-python
-tensorflow==2.8.0
-tensorflow-model-optimization
-mnn==2.9.3
-keras_applications
-folium
-imgaug
-h5py
-Cython
+pandas
+ultralytics
+gdown
+wandb
